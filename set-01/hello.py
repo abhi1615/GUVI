@@ -1,3 +1,5 @@
-n=int(input())
-for i in range(n):
-    print('Hello')
+def main():
+    n=int(input())
+    for i in range(n):
+        print('Hello')  
+main()
